@@ -1,0 +1,146 @@
+body {
+	background: #f2f2f2;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 1em;
+}
+
+.statement {
+	background: white;
+	max-width: 800px;
+	min-width: 640px;
+	margin: 300px auto;
+	padding: 12px 2px 4px 2px;
+}
+
+h3 {
+	font-size: 1.1em;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.container {
+	width: 98%;
+	margin: 0 auto;
+	border: 4px solid #006fd6;
+}
+
+.container h3 {
+	background: #006fd6;
+	font-size: 0.8em;
+	color: white;
+	margin-bottom: 0px;
+	padding-top: 2px;
+	padding-bottom: 3px;
+}
+
+.container input {
+	padding-left: 3px;
+	font-size: 0.7em;
+	min-height: 13px;
+	border: 0px;
+	outline: 0px;
+	width: 94%;
+} 
+
+
+.blue-label {
+	font-size: 0.8em;
+	background: #bed9fa;
+	text-align: center;
+	padding: 3px 0px 1px 0px;
+}
+
+.full-name .row {
+	min-height: 30px;
+}
+
+.full-name input {
+	margin-bottom: 19px;
+}
+
+.flex {
+	display: flex;
+	border-bottom: 2px solid #006fd6;
+}
+.flex.last {
+	border-bottom: 0px;
+}
+
+.document .row {
+	min-height: 13px;
+}
+
+.document-type {
+	width: 84%;
+}
+
+.document-serie {
+	width: 7%;
+}
+ 
+.document-number {
+	width: 9%;
+}
+
+.border-blue {
+	border-right: 2px solid #006fd6;
+}
+
+.user-entity .date-birth {
+	width: 21%;
+}
+
+.user-entity .row-date-birth {
+	width: 28%;
+}
+.user-entity .tin {
+	width: 20%;
+}
+.user-entity .row-tin {
+	width: 31%;
+}
+
+.full-name {
+	border-bottom: 2px solid #006fd6;
+}
+
+.state-entity .adress {
+	width: 6%
+}
+
+.state-entity .index {
+	width: 8%
+}
+
+.state-entity .state {
+	width: 45%
+}
+
+.state-entity .area {
+	width: 41%
+}
+
+.city-entity .city {
+	width: 38%;
+}
+
+.city-entity .street {
+	width: 38%;
+}
+
+.city-entity .hause {
+	width: 6%;
+}
+
+.city-entity .body {
+	width: 7%;
+}
+
+.city-entity .office {
+	width: 11%;
+}
+
+.contact .blue-label {
+	width: 15%;
+}
+
